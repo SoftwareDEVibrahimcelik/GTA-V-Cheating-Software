@@ -1,0 +1,11 @@
+c:\users\resul çelik\documents\visual studio 2012\Projects\devibrahimcelik - GTA V\bin\x64\Release\devibrahimcelik - GTA V.exe.config
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\devibrahimcelik - GTA V\obj\x64\Release\devibrahimcelik___GTA_V.devibrahimcelik.resources
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\devibrahimcelik - GTA V\obj\x64\Release\devibrahimcelik___GTA_V.Resources.resources
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\devibrahimcelik - GTA V\obj\x64\Release\devibrahimcelik - GTA V.vbproj.GenerateResource.cache
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\devibrahimcelik - GTA V\bin\x64\Release\devibrahimcelik - GTA V.exe
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\devibrahimcelik - GTA V\bin\x64\Release\devibrahimcelik - GTA V.pdb
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\devibrahimcelik - GTA V\bin\x64\Release\devibrahimcelik - GTA V.xml
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\devibrahimcelik - GTA V\bin\x64\Release\Guna.UI2.dll
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\devibrahimcelik - GTA V\obj\x64\Release\devibrahimcelik - GTA V.exe
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\devibrahimcelik - GTA V\obj\x64\Release\devibrahimcelik - GTA V.xml
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\devibrahimcelik - GTA V\obj\x64\Release\devibrahimcelik - GTA V.pdb
